@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+*{
+    margin: 0;padding: 0;
+}
+
+section .parallax-demo {
+    background-image: url('https://media.istockphoto.com/id/1358013032/photo/web-development-concept.jpg?s=612x612&w=0&k=20&c=d0F_7Rs2bysfEL9zr9JVN1TLzVOlEycNkz-vd19OANA=');
+    /* background-repeat: no-repeat; */
+    padding-top: 200px;
+    padding-bottom: 200px;
+    /* overflow: hidden; */
+    position: relative;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+}
+
+section p{
+    font-size: 20px;
+
+}
